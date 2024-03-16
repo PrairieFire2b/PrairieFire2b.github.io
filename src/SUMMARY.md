@@ -14,3 +14,10 @@
 [Plays](./plays/index.md)
 
 [Repos](./repos/index.md)
+  [Thesis Language](./repos/thesis.md)
+
+---
+
+[Materials](./materials/index.md)
+  <!--Quotes is to ensure they are compiled.--->
+  [](./materials/theses/adaptive-language.md)
