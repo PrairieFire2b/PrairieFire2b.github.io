@@ -1,5 +1,6 @@
 # Yume & Me
 
+{{#title Yume & Me}}
 <meta lang="zh" />
 
 __这里是梦想的起点。__
