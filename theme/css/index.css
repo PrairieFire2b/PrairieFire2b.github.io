@@ -1,0 +1,23 @@
+li.chapter-item.expanded.affix > a {
+    font-weight: bolder;
+}
+
+/* Hardcoded Type Checker */
+li.chapter-item.expanded.affix > 
+  a[href*="../"][href*="blogs"]:not([href*="index.html"]) {
+    font-weight: initial;
+    margin-left: 3.6%;
+}
+
+a.nav-chapters, a.mobile-nav-chapters {
+    display: none;
+}
+
+p.date {
+    font-weight: lighter;
+    text-align: right;
+}
+
+code.language-post {
+    visibility: initial;
+}

@@ -1,0 +1,19 @@
+[book]
+authors = ["PrairieFire2b"]
+language = "en"
+multilingual = false
+src = "src"
+title = "My Yume"
+
+[build]
+build-dir = "yume"
+extra-watch-dirs = ["theme"]
+
+[output.html]
+additional-css = ["theme/css/index.css"]
+cname = "prairiefire2b.com"
+git-repository-url = "https://github.com/PrairieFire2b/PrairieFire2b.github.io"
+mathjax-support = true
+
+[output.html.print]
+enable = false
